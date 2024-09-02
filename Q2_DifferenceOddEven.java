@@ -1,4 +1,4 @@
-public class DifferenceOddEven {
+public class Q2_DifferenceOddEven {
 
     public static void main(String[] args) {
         System.out.println("Difference Between Odd and Even Test Results");

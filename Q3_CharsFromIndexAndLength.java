@@ -1,5 +1,5 @@
 
-public class CharsFrom {
+public class Q3_CharsFromIndexAndLength {
 
     public static void main(String[] args) {
         System.out.println("Chars from");
@@ -11,7 +11,7 @@ public class CharsFrom {
 
         char[] chars = new char[len];
         if (arr == null || start < 0 || len < 0 || start + len > arr.length) {
-            return null;
+            return null;   
         }
         for (int i = 0; i < len; i++) {
             chars[i] = arr[start + i];

@@ -6,12 +6,10 @@ public class FancyNumber {
         System.out.println(IsFancyNumberMethod(6));
         System.out.println(IsFancyNumberMethod(17));
         System.out.println(IsFancyNumberMethod(61));
-        System.out.println(IsFancyNumberMethod(217));
-
+        System.out.println(IsFancyNumberMethod(217));                                                                                                                                  
     }
 
     public static int IsFancyNumberMethod(int num) {
-
         //Fancy Numbers are These Numbers :- {1,1,5,17,61,217,....}
         if(num==1){
             return 1;

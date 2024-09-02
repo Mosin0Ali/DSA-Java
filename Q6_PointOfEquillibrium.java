@@ -1,4 +1,4 @@
-public class PointOfEquillibrium {
+public class Q6_PointOfEquillibrium {
     
     public static void main(String[] args){
         int [] testA={1, 8, 3, 7, 10, 2};
