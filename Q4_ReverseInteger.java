@@ -1,4 +1,4 @@
-public class ReverseInteger {
+public class Q4_ReverseInteger {
 
     public static void main(String[] args) {
         System.out.println("Reverse Integer");
