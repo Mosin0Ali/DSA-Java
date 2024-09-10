@@ -1,7 +1,8 @@
 
-public class FancyNumber {
+public class Q10_FancyNumber {
 
     public static void main(String[] args) {
+        //These numbers are fancy numbers 3*17 + 2*5 =61 :- {1,1,5,17,61,217,....}
         System.out.println("Is Fancy Number?");
         System.out.println(IsFancyNumberMethod(6));
         System.out.println(IsFancyNumberMethod(17));
@@ -10,7 +11,7 @@ public class FancyNumber {
     }
 
     public static int IsFancyNumberMethod(int num) {
-        //Fancy Numbers are These Numbers :- {1,1,5,17,61,217,....}
+    
         if(num==1){
             return 1;
         }
