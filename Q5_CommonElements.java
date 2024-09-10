@@ -1,13 +1,12 @@
 
 import java.util.Arrays;
 
-public class CommonElements {
+public class Q5_CommonElements {
 
     public static void main(String[] arg) {
         System.out.println("Common Elements in Distinct Arrays");
         int[] testAA = {1, 8, 3, 2};
         int[] testAB = {4, 2, 6, 1};
-       
         System.out.println(Arrays.toString(CommonElementsMethod(testAA, testAB)));
         int[] testBA = {1, 8, 3, 2};
         int[] testBB = null;
@@ -16,7 +15,6 @@ public class CommonElements {
         int[] testCA = {1, 8, 3, 2};
         int[] testCB = {};
         System.out.println(Arrays.toString(CommonElementsMethod(testCA, testCB)));
-
     }
 
     public static int[] CommonElementsMethod(int[] arrA, int[] arrB) {
