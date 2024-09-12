@@ -1,0 +1,90 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "ImportantConcepts",
+            "request": "launch",
+            "mainClass": "ImportantConcepts",
+            "projectName": "MIU-DSA_b6565f6a"
+        },
+        {
+            "type": "java",
+            "name": "Q25_IsSym",
+            "request": "launch",
+            "mainClass": "Q25_IsSym",
+            "projectName": "MIU-DSA_b6565f6a"
+        },
+        {
+            "type": "java",
+            "name": "Q24_SubArray",
+            "request": "launch",
+            "mainClass": "Q24_SubArray",
+            "projectName": "MIU-DSA_b6565f6a"
+        },
+        {
+            "type": "java",
+            "name": "Q23_EvenSpaced",
+            "request": "launch",
+            "mainClass": "Q23_EvenSpaced",
+            "projectName": "MIU-DSA_b6565f6a"
+        },
+        {
+            "type": "java",
+            "name": "Q22_SumFactor",
+            "request": "launch",
+            "mainClass": "Q22_SumFactor",
+            "projectName": "MIU-DSA_b6565f6a"
+        },
+        {
+            "type": "java",
+            "name": "Q21_StantonMeasure",
+            "request": "launch",
+            "mainClass": "Q21_StantonMeasure",
+            "projectName": "MIU-DSA_b6565f6a"
+        },
+        {
+            "type": "java",
+            "name": "Q20_IsGuthrieSequence",
+            "request": "launch",
+            "mainClass": "Q20_IsGuthrieSequence",
+            "projectName": "MIU-DSA_b6565f6a"
+        },
+        {
+            "type": "java",
+            "name": "Q19_IsPorcupine",
+            "request": "launch",
+            "mainClass": "Q19_IsPorcupine",
+            "projectName": "MIU-DSA_b6565f6a"
+        },
+        {
+            "type": "java",
+            "name": "Q18_CountSquarePairs",
+            "request": "launch",
+            "mainClass": "Q18_CountSquarePairs",
+            "projectName": "MIU-DSA_b6565f6a"
+        },
+        {
+            "type": "java",
+            "name": "Q17_IsInertialArray",
+            "request": "launch",
+            "mainClass": "Q17_IsInertialArray",
+            "projectName": "MIU-DSA_b6565f6a"
+        },
+        {
+            "type": "java",
+            "name": "Q16_IsMadhavArray",
+            "request": "launch",
+            "mainClass": "Q16_IsMadhavArray",
+            "projectName": "MIU-DSA_b6565f6a"
+        },
+        {
+            "type": "jdk",
+            "request": "launch",
+            "name": "Launch Java App"
+        }
+    ]
+}
